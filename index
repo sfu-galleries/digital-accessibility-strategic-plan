@@ -1102,7 +1102,7 @@
                     <li>Audit personal device use by all staff and teams to clearly understand risks associated with data security and privacy, as well as understand tools not being provided by SFU Galleries required or regularly used by staff,</li>
                     <li>Announce the <a href="https://sfu-galleries.github.io/digital-accessibility-needs-assessment/#fileMaintenanceProject">Project File Maintenance Project</a> and set dates for data centralization,</li>
                     <li>Oversee and approve the unpublishing of public assets,</li>
-                    <li>Prioritize the collections off-site digital recommendations from the <a href="https://sfu-galleries.github.io/digital-accessibility-needs-assessment/#wfh">2023 needs assessment report</a>, and review safety and digital upgrades to allow for safer, accessible, and more connected workflow,</li>
+                    <li>Prioritize the collections/off-site digital recommendations from the <a href="https://sfu-galleries.github.io/digital-accessibility-needs-assessment/#wfh">2023 needs assessment report</a>, and review safety and digital upgrades to allow for safer, accessible, and more connected workflow,</li>
                     <li>Coordinate conversations between curatorial, collections, and communications to discuss the implications of simple language translations and identify priority content translation*</li>
                 </ul>
                 <p>Much of this work will build the case for special project funding, such as content and documentation writers.</p>
@@ -1145,10 +1145,179 @@
                     <li>Identify digital tools and software, especially those installed on personal devices.</li>
                 </ul>
             </section><!--END Chapter 4.1-->
-            <section>
+            <section><!--Chapter 4.2 - Execution, Phase 2: by department or task-->
+                <a name="phase2byDept">
+                    <h3>Chapter 4.2. Phase two tasks by department</h3>
+                </a>
+                <p>In the following phase, common tasks shared by all departments are now listed under the All Departments heading. Unique tasks for each department are listed under their heading.</p>
+                <a name="phase2AllTasks">
+                    <h4>All Departments, phase 2:</h4>
+                </a>
+                <ul>
+                    <li>Participate in Process Documentation work, documenting major processes in simple language using Microsoft Word, and using provided templates for accessibility and consistency.</li>
+                    <li>Participate in File Maintenance Project event, rename files and organize folders with a focus on identifying and removing duplicates.</li>
+                    <li>Implement creative strategy recommendations, ensuring updates such as email footers and logo use is consistent on all digital files,</li>
+                    <li>Segregate personal and institutional data usage, log into accounts using SFU Galleries emails, and reset all passwords. Install a password manager and review password and app username policy (pending administration process documentation).
+                    <li>Participate in the accessibility asset translation (alt tags, visual descriptions) to ensure context is accurately translated for these assets.</li>
+                    <li>Work with Collections and Communications to review artist and creator names. Generate pronunciation keys, and output audio files (speechify) with sound clips accurately pronouncing names. Continue process with places, non-English terms, and complex or mispronounced arts terms for website and collections archive.</li>
+                    <li>Identify and prioritize audio/video files for captioning and transcripts, generate drafts using otter.ai, and schedule transcript and caption editing to provide access assets for online dissemination and archives.</li>
+                </ul>
+                <h4>Administration and Governance, phase 2:</h4>
+                <ul>
+                    <li><a href="#phase2AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Implement Process Documentation Project, set deadlines and working dates for all staff, begin documentation of staff-wide process documentation,</li>
+                    <li>Approve and disseminate style guides for tone and language (project/dept specific)</li>
+                    <li>Develop Digital Tech Use Policy; begin segreting personal and institual data usage, review telecommunication contracts and consider wifi/data packages for staff</li>
+                    <li>Set up password manager for all staff,</li>
+                    <li>Introduce and model accessible online meetings with transcription,</li>
+                    <li>Collect departmental feedback on content updates and implementation of creative strategy recommendations, ensure updates such as email footers and logo use is consistent on all digital files,</li>
+                    <li>Approve launch of new website</li>
+                </ul>
+                <h4>Curatorial, phase 2:</h4>
+                <ul>
+                    <li><a href="#phase2AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Identify texts specifically for study guides or online dissemination. Work with the communications team to translate materials for both academic and public participation.</li>
+                </ul>
+                <h4>Collections:</h4>
+                <ul>
+                    <li><a href="#phase2AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Prioritize writing a process and risk reduction document for working alone and offsite, focusing on emergency procedures.</li>
+                    <li>Unpublish or make private any incomplete Collections listings and flag for update. </li>
+                    <li>Prioritize collection data entry by artist.</li>
+                    <li>Work with the creative strategy, programming, and communications team to generate a list of broad tags for object listings to enhance discoverability,</li>
+                    <li>Implement alt tags, visual descriptions, name pronuniciation guides, updated glyphs and text for non-English characters in Collection database/website listings,</li>
+                </ul>
+                <h4>Communications:</h4>
+                <ul>
+                    <li><a href="#phase2AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Identify texts specifically for exhibition or online dissemination. Work with the curatorial and program teams to translate materials for public participation,</li>
+                    <li>Implement alt tags, visual descriptions, captions, transcripts, name pronuniciation guides, updated glyphs and text for non-English characters on website,</li>
+                </ul>
+                <h4>Preparatory:</h4>
+                <ul>
+                    <li><a href="#phase2AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Familiarize and make use of online assets for interactive objects in gallery and exhibition installation (QR Codes, Audio storage, etc).</li>
+                </ul>
+            </section><!--END Chapter 4.2-->
+            <section><!--Chapter 4.3 - Execution, Phase 3: by department or task-->
+                <a name="phase3byDept">
+                    <h3>Chapter 4.3. Phase three tasks by department</h3>
+                </a>
+                <p>In the following phase, common tasks shared by all departments are now listed under the All Departments heading. Unique tasks for each department are listed under their heading.</p>
+                <a name="phase3AllTasks">
+                    <h4>All Departments, phase 3:</h4>
+                </a>
+                <ul>
+                    <li>Continue documenting process, and take notes of processes that are challenging and need review,</li>
+                    <li>Archive old templates or content incongruent to new 2024 creative strategy and brand guidelines, tag any templates that are urgently in need of an update and prioritize before end of phase 3,</li>
+                    <li>Review password policy, update any old passwords, ensure all passwords and logins are now logged in password manager, and no passwords are shared or stored in insecure ways,</li>
+                    <li>Utilize new templates for email footers, downloadable PDFs, plain documents, video and audio content, and presentation decks,</li>
+                    <li>Publish assets that are now complete, accessible, and up to date,</li>
+                    <li>Complete the third File Maintenance event, focusing on centralizing data and reviewing file management practices.</li>
+                </ul>
+                <h4>Administration and Governance, phase 3:</h4>
+                <ul>
+                    <li><a href="#phase3AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Schedule an annual staff-wide event for ongoing data consolidation and documentation updates,</li>
+                    <li>Confirm that all department teams are producing content that now follow both creative strategy and accessibility commitments when producing public exhibitions and publications, and when communicating with the public,</li>
+                    <li>Incorporate consistency checks during annual performance reviews to ensure departmental alignment with the new templates.</li>
+                </ul>
+                <h4>Curatorial, phase 2:</h4>
+                <ul>
+                    <li><a href="#phase3AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Work with clear understanding of the intended audiences for each writing piece, undestanding the process for creating alternative texts for general audiences, and assisting in the creation of descriptions that are informed by context and the artist's intent</li>
+                </ul>
+                <h4>Collections:</h4>
+                <ul>
+                    <li><a href="#phase3AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Feature completed Collections on website and with communications dept support</li>
+                    <li>Continue adding objects and artists to the collection following the creative strategy and digital guidelines before publishing live</li>
+                </ul>
+                <h4>Communications:</h4>
+                <ul>
+                    <li><a href="#phase3AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Publish archive and historical data on the new SFU Galleries website.</li>
+                    <li>Announce a more integrated approach to the SFU Galleries websites and Collections database.</li>
+                    <li>Request assests and take charge of ongoing efforts to ensure digital content for the public has consistent alt tags, descriptions, pronunciations, and reading keys that work with assistive technology and benefit a general audience,</li>
+                    <li>Continue exhibition and programs, event listings, and social posts following the creative strategy and digital guidelines before publishing live</li>
+                    <li>Welcome public and student feedback on the updated systems.</li>
+                </ul>
+                <h4>Preparatory:</h4>
+                <ul>
+                    <li><a href="#phase3AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Test digital assets associated with exhibitions before launch. QR codes, audio players, and engagement assets associated with the exhibition should function seamlessly and without errors before exhibition opening. Communicate with curation and communication teams for up to date links and to help in generating QR codes that go to publically accessible locations.</li>
+                </ul>
+            </section><!--END Chapter 4.3-->
+            <section><!--Chapter 4.4 - Execution, Phase 3: by department or task-->
+                <a name="phase4byDept">
+                    <h3>Chapter 4.4. Phase three tasks by department</h3>
+                </a>
+                <p>In the following phase, common tasks shared by all departments are now listed under the All Departments heading. Unique tasks for each department are listed under their heading.</p>
+                <a name="phase4AllTasks">
+                    <h4>All Departments, phase 4:</h4>
+                </a>
+                <ul>
+                    <li>Create a list of processes that will need to be documented (new processes)</li>
+                    <li>Review existing process documentation (including encountered and projected risk or challenges), update with new technology and process changes</li>
+                    <li>Compile documentation and feedback to support future funding requests</li>
+                    <li>Review commonly used passwords, and consider changing passwords used by all staff, freshly logging into services that have been logged in cache or in browsers</li>
+                    <li>Complete the fourth File Maintenance event, now solidifying best practices for file maintenance and folder management (reviewed annually).</li>
+                    <li>Reflect on the progress made and consider exploring new tools and technologies.</li>
+                </ul>
+                <h4>Administration and Governance, phase 4:</h4>
+                <ul>
+                    <li><a href="#phase4AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Designate time for rest and celebration to acknowledge the team's achievements</li>
+                    <li>Schedule the next annual staff-wide event for ongoing data consolidation and documentation updates,</li>
+                    <li>Plan for the development of a new digital strategy based on the now current landscape shaped by emerging technology and digital participation opportunities.</li>
+                </ul>
+                <h4>Curatorial, phase 4:</h4>
+                <ul>
+                    <li><a href="#phase4AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Provide a department specific report and feedback to administration on the implementation of this strategy and the creative stratagy, identifying sucesses and challenges, as well as goals that remain unfulfilled</li>
+                </ul>
+                <h4>Collections, phase 4:</h4>
+                <ul>
+                    <li><a href="#phase4AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Provide a department specific report and feedback to administration on the implementation of this strategy and the creative stratagy, identifying sucesses and challenges, as well as goals that remain unfulfilled</li>
+                </ul>
+                <h4>Communications, phase 4:</h4>
+                <ul>
+                    <li><a href="#phase4AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Provide a department specific report and feedback to administration on the implementation of this strategy and the creative stratagy, identifying sucesses and challenges, as well as goals that remain unfulfilled</li>
+                    <li>Explore content generation automation for creating drafts of visual descriptions, transcripts, and summaries</li>
+                    <li>Continue to innovate and prototype digital experiences, keeping up with technological advancements and aligning with SFU Galleries' goals</li>
+                </ul>
+                <h4>Preparatory:</h4>
+                <ul>
+                    <li><a href="#phase4AllTasks">All Departments, Common Tasks</a></li>
+                    <li>Provide a department specific report and feedback to administration on the implementation of this strategy and the creative stratagy, identifying sucesses and challenges, as well as goals that remain unfulfilled</li>
+                </ul>
+            </section><!--END Chapter 4.4-->
+            <section><!--Chapter 4.5 - POP Project Templates -->
+                <a name="PopProject">
+                    <h3>Chapter 4.5. Project Templates</h3>
+                </a>
+                <p>The following templates are provided to help departments and teams plan and execute projects that relate to the larger digital strategy. Each template includes a list of performance indicators to be used to measure success and a list of resources that will be required to complete the work. </p>
+                <p>All project templates have been written using simple language, and scored at a grade 9 reading level for comprehension and so that consultants and students who may not have a professional understanding of the systems at SFU Galleries can participate and bring their skills into this work.</p>
+                <p>Note: Project templates with an asterix have been written using plain text, formatted to be understood by screen readers. It follows the <a href="https://www.w3.org/TR/WCAG20-TECHS/T3.html">T3 technique for formatting plain text</a> without the use of sematic headings (h1, h2, etc), and can be easily copied into a Word Processor for use by sighted teams with the addition of letterhead and footers. This formatting is to allow for contractors and community participation, specifically experts who use screenreader or persons without access to proprietary word processing suites, to participate in the implementation of the SFU 2024 digital strategy.</p>
+                <ul>
+                    <li>File Mainteance Project</li>
+                    <li>Process Documentation (Manuals Mainteance) Project</li>
+                    <li>Collections Vault Saftey and Technology Assessment Project</li>
+                    <ul><li>Draft Password Process Documentation</li></ul>
+                    <ul><li>Draft Media Asset Description Process Documentation</li></ul>
+                    <ul><li>Draft Collection Entry Process Documentation</li></ul>
+                    <ul><li>Draft Workflow Process Documentation for Language Translation</li></ul>
+                    <ul><li>Draft How-To Participate for Website Process Documentation</li></ul>
+                    <li>Asset Description Project*</li>
+                    <li>Personal Device Use Audit</li>
+                    <li>Accessibility Site Audit and Content Consolidation Project*</li>
+                </ul>
+
+            </section><!--END Chapter 4.5-->
         </section>
     <!--End Main Report-->
     </section>
 </body>
-
 </html>

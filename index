@@ -260,8 +260,8 @@
         <a name="top">
             <h1>SFU Galleries Digital Strategic Plan, 2024</h1>
         </a>
-        <time datetime="2023-12-09" pubdate="pubdate"></time>
-        <p>Version: 0.1, December 9th, 2023.</p>
+        <time datetime="2023-12-09" pubdate="2023-12-15"></time>
+        <p>Version: 1.0, December 15th, 2023.</p>
         <a href="#TOC">Jump down to the Table of Contents.</a>
         <p>This report was authored in Fall 2023 by <a href="#kaySlaterBio">Kay Slater</a> with support from <a href="#RussellGordon">Russell Gordon</a>.</p>
         <br />
@@ -281,7 +281,7 @@
                 <a href="#TOC" id="skipJumpTop"><span style="font-size: xx-large;" aria-hidden="true">&#8615;</span>Jump down to Table of Contents</a><br />
                 <br />
                 <br />
-                <!--End Section: Purpose, introduction!-->
+                <!--End Section: Purpose, Introduction!-->
             </section>
             <hr class="style-two" />
             <section><!--PRESENTATION, introduction-->
@@ -318,7 +318,7 @@
                             </ul>
                             Yellow<span style=color:#f2b430;" aria-label="yellow square icon"> &#9632;</span> will be used as a fourth colour within charts, but only as a data colour. It will not be used as a text colour.
                         </p> 
-                        <p>This document prioritizes accessibility and searchability. It is a high-level report intended to be read fully and used as a reference document. As such, it is written in a way that allows for easy navigation and linking. The document is broken into sections and subsections, each with a unique name that can be linked to. The Table of Contents is a list of links that can be used to jump to a specific section. Each section has a link at the top that can be used to jump back to the Table of Contents. Each section also has a link at the bottom that can be used to jump back to the top of the section. This allows for easy navigation and referencing.</p>
+                        <p>This document prioritizes accessibility and searchability. It is a high-level report intended to be read fully and used as a reference document. As such, it is written in a way that allows for easy navigation and linking. The document is broken into sections and subsections, each with a unique name that can be linked to. The Table of Contents is a list of links that can be used to jump to a specific section. Each section has a link at the top that can be used to jump back to the Table of Contents. Each section also has a link at the bottom that can be used to jump back to the top of the section, allowing for easy navigation and referencing.</p>
                         </div>
                         <a href="#executiveSummary" id="skipJumpChptTop"><span style="font-size: xx-large;" aria-hidden="true">&#8613;</span>Jump back to the top of introduction</a><br />
                         <br />
@@ -474,11 +474,11 @@
                     <p><em>They aim to use the strengths of SFU Galleries to prepare for a new art museum, including determining governance and collaborating with partners.</em></p>
                     <div class="well">
                         <p>
-                            SFU Galleries will dedicate time and resources to practicing processes that produce consistent and accessible content. They will audit and prioritize past work that can be updated and put these processes into practice so that new content created for and with the new museum will be seamless.</p>
+                            SFU Galleries will dedicate time and resources to practicing processes that produce consistent and accessible content. They will audit and prioritize past work that can be updated and put these processes into practice so that new content created for and with the new Museum will be seamless.</p>
                     </div>
-                    <p>SFU Galleries' online presence will be essential in maintaining relationships and communications with its audiences, contractors, funders, staff, and SFU network during construction and in the early days of opening. General information must be shared to spark curiosity and answer specific questions rather than challenge audiences with art dialogues or complex ideas. While this work will continue at the SFU Galleries sites across the city and in its programs and exhibitions, information related to the new museum should allow for a new potential audience who have yet to have a relationship with SFU Galleries to be welcomed into the conversation. It will be a point of interest and a cultural destination in these early days, and prioritizing academic jargon will send an obvious message to non-academic, non-fine-arts communities that this site is not for them.</p>
+                    <p>SFU Galleries' online presence will be essential in maintaining relationships and communications with its audiences, contractors, funders, staff, and SFU network during construction and in the early days of opening. General information must be shared to spark curiosity and answer specific questions rather than challenge audiences with art dialogues or complex ideas. While this work will continue at the SFU Galleries sites across the city and in its programs and exhibitions, information related to the new Museum should allow for a new potential audience who have yet to have a relationship with SFU Galleries to be welcomed into the conversation. It will be a point of interest and a cultural destination in these early days, and prioritizing academic jargon will send an obvious message to non-academic, non-fine-arts communities that this site is not for them.</p>
                     <p>During this time, there will be more potential for confusion as a new site is being built and as the SFU Galleries sites across the city continue to operate. The digital strategy prioritizes clear and simple language and the consistent placement of addresses and locations, especially on the website and in email communication.</p>
-                    <p>Looking towards the future, SFU Galleries will create content and programs that are more complex and academic to make publically available when the museum opens. Still, the initial digital strategy is to use simple, non-jargon communication to build trust and relationships with new audiences. It will also make the content more sharable by more people, encouraging social sharing and conversation with non-arts communities, organizations and institutions interested in visiting or establishing relationships with the new location.</p>
+                    <p>Looking towards the future, SFU Galleries will create content and programs that are more complex and academic to make publically available when the Museum opens. Still, the initial digital strategy is to use simple, non-jargon communication to build trust and relationships with new audiences. It will also make the content more sharable by more people, encouraging social sharing and conversation with non-arts communities, organizations and institutions interested in visiting or establishing relationships with the new location.</p>
                     <p>Reviewing existing digital and public-facing content, including the SFU Collections, should be a major priority during 2024. The Museum represents a future moment and a milestone where all the existing SFU Galleries digital content and archives can be shared and celebrated. Both museum staff and visitors will benefit by having consistent, accessible content in any published work online. Digital communications will be consistent in visuals and completeness. SFU Galleries will have the chance to establish a "new normal" with its existing and new audiences.</p>
                 </section><!--End SubChapter 1.2.5 - Foundation for New Art Museum-->
                 <section><!--SubChapter 1.2.6 - Collection and Archive-->
@@ -489,7 +489,7 @@
                     <div class="well">
                         <p>SFU Galleries is committed to the careful stewardship and ongoing development of the SFU Art Collection, ensuring it remains a central element in our mission to preserve Canada's art history in an accessible, respectful, and accurate manner. We aim to enhance the cohesion and user-friendliness of our website, online catalogue, and digital archives, transforming them into integrated resources that effectively serve as both an informative hub for our current activities and a comprehensive archive of our past endeavours. This strategic priority focuses on standardizing content, tailoring it to our diverse audiences, and creating a harmonious visual and functional experience, elevating our digital presence beyond mere storage to a vital, engaging resource for artists, academics, and the public.</p>
                     </div>
-                    <p>SFU Galleries website and online presence includes the online Catalogue of the SFU Art Collection. The catalogue is maintained through the proprietary archive software PastPerfect. While a link connects the SFU Galleries website and Art Collection, they do not work in tandem, and both seem complete and scattered, with a lack of consistency in writing, format, appearance, and function. 13 years of archived programming exists on the SFU Galleries website with many exhibitions featuring SFU's Art Collection. There are more than 5,000 works in the SFU Art Collection. Many works from the SFU Art Collection are permanently installed at the SFU Burnaby campus but remain constrained to a PDF that is both large in size and inaccessible to screen readers. More information about specific digital recommendations related to these entities can be found in the <a  href="https://sfu-galleries.github.io/digital-accessibility-needs-assessment/#website">2023 Digital Needs Assessment Report</a>.</p>
+                    <p>SFU Galleries website and online presence includes the online Catalogue of the SFU Art Collection. The catalogue is maintained through the proprietary archive software PastPerfect. While a link connects the SFU Galleries website and Art Collection, they do not work in tandem, and both seem complete and scattered, with a lack of consistency in writing, format, appearance, and function. 13 years of archived programming exists on the SFU Galleries website with many exhibitions featuring SFU's Art Collection. There are more than 5,000 works in the SFU Art Collection. Many works from the SFU Art Collection are permanently installed at the SFU Burnaby campus but remain constrained to a PDF that is large and inaccessible to screen readers. More information about specific digital recommendations related to these entities can be found in the <a  href="https://sfu-galleries.github.io/digital-accessibility-needs-assessment/#website">2023 Digital Needs Assessment Report</a>.</p>
                     <p> There exists an opportunity for both the SFU Galleries website to be a site for information and communication about upcoming programs, exhibitions, and public donations, an archive of the SFU Galleries past presentations, as well as a resource hub that contains assets related to SFU Galleries' public offerings and publications. This resource hub must actively use the SFU Art Collection's digital catalogue by cross-linking and referencing. This catalogue is a pedagogical resource currently underdeveloped (as a public resource) and hidden in terms of its visibility and functionality online. Work must be done to prioritize the standardization of this content, to confirm who the audience is, and to create synergy between the visuals, content, and functionality of these materials. It is not hyperbole to state that neither serves the other, and the website is more a storage space than a functional directory or useful resource.</p>
                     <p>In this priority, there also exists an urgency to document processes in the archival process of both SFU Galleries programs and exhibitions, as we as SFU Galleries' role in maintaining the database and how it appears online. The current process for the archivist and collections manager is not sustainable, efficient or safe. In addition, specific processes and team building between communications, curators, and archivists or collection managers must be established so that the digital database and archive can be consistent and useful internally and externally.</p>
                 </section><!--End SubChapter 1.2.6 - Collection and Archive:-->
@@ -497,10 +497,10 @@
                     <a name="stratDIG-Accessibility">
                         <h4>1.2.7. Incorporating Accessibility</h4>
                     </a> 
-                    <p>The following is not included in the 2020-2025 SFU Strategic Priorities and has been added as a digital priority. However, as SFU releases their Accessibility Plan per the Accessible BC Act requirements in the coming year and as SFU Galleries develops its next 5-year strategic plan, this priority has been written broadly so that it may also be a pledge towards incorporating accessibility across all levels of the organization.</p>
+                    <p>The following is not included in the 2020-2025 SFU Strategic Priorities and has been added as a digital priority. However, as SFU releases their Accessibility Plan per the Accessible BC Act requirements in the coming year and as SFU Galleries develops its next 5-year strategic plan, this priority has been written so that it may also be a pledge towards incorporating accessibility across all levels of the organization.</p>
                     <div class="well">
                         <p>
-                            SFU Galleries aims to make its programs, facilities, and materials more accessible. They acknowledge this is an ongoing and complex task and that there is no one way to be accessible. They commit to identifying ableist processes, reviewing published best practices for inclusion and accessibility as a first step, and being open to community feedback and conversation about how barriers can be overcome or eliminated. This effort is to ensure that everyone, including the public, artists, donors, and SFU faculty and staff, can easily participate in and discuss the Arts and to empower these groups to keep supporting the Arts</p>
+                            SFU Galleries aims to make its programs, facilities, and materials more accessible. They acknowledge that this is an ongoing and complex task and that there is no one way to be accessible. They commit to identifying ableist processes, reviewing published best practices for inclusion and accessibility as a first step, and being open to community feedback and conversation about how barriers can be overcome or eliminated. This effort is to ensure that everyone, including the public, artists, donors, and SFU faculty and staff, can easily participate in and discuss the Arts and to empower these groups to keep supporting the Arts</p>
                     </div>
                     <p>It is no small thing to "commit to accessibility." What does it even mean when accessibility for one person, community, or ability group is potentially disabling or may create barriers for another? Many Western business practices, especially those within the industrial arts and education complex, are designed for universal inclusion based on a majority. Performance indicators often place higher value on large participant numbers, overshadowing the importance of quality and inclusive engagement that may be reflected in smaller groups. This is why it must be a practice. It must also be understood that seeking accessibility is not something that can be attained and then completed. With each new program, exhibition, publication, or meeting, access is an ever-changing form that is as much about those who show up and those who are unable to. It requires us to be creative and caring. SFU Galleries is positioned such that it practices arts and discourse while also serving a student and public audience. The opportunity to be in conversation with communities and learn is there.</p>
                     <p>It is important in any strategic plan to plan for failure and risk. Striving towards the goal of being "more accessible" has minimal risk, as it is effortless to take something from not accessible to slightly accessible or more accessible to someone who was previously completely barred from entry. However, to "be accessible" is impossible, and so the goal must be to practice and incorporate accessibility whenever possible and within capacity. Priority groups must be identified, and then a conversation between groups with conflicting access needs (consider a culturally Deaf ASL community and a Blind hearing community) to learn more about how to include both without creating more barriers. There exists an opportunity to support a public sphere for discourse and learning and to be a hub for these conversations. Art and Access are both worthy pursuits and are not mutually exclusive.</p>
@@ -685,7 +685,7 @@
             <a name="analysis">
                 <h2>Chapter 2. SWOT Analysis</h2>
             </a>
-            <p>The following is a list of observed and reported opportunities and threats identified during the past season while working and interviewing members of the SFU Galleries team and community members while developing the Digital Needs Assessment. This is a snapshot of a moment in time to provide insight into barriers present in existing digital processes. It does not seek to negatively critique those currently engaged in this work, nor those who created it. This report is written from an outsider's perspective. It highlights opportunities for change and identifies barriers that may not be possible to remove with the available resources to SFU Galleries. When we are made aware of barriers, we better see those struggling. We can have more informed conversations and moments for inclusion, even when the temptation is to “fix” a problem and check it off a list.</p>
+            <p>The following is a list of observed and reported opportunities and threats identified during the past season while working and interviewing members of the SFU Galleries team and community members while developing the Digital Needs Assessment. This is a snapshot of a moment in time to provide insight into barriers present in existing digital processes. It does not seek to critique those currently engaged in this work negatively, nor those who created it. This report is written from an outsider's perspective. It highlights opportunities for change and identifies barriers that may not be possible to remove with the available resources to SFU Galleries. When we are made aware of barriers, we better see those struggling. We can have more informed conversations and moments for inclusion, even when the temptation is to "fix" a problem and check it off a list.</p>
             <section><!--Strengths-->
                 <a name="strengths">
                     <h3>2.1. Strengths</h3>
@@ -747,7 +747,7 @@
                 </ul>
             </section>
             <br />
-            <a href="#strategicDirection" id="skipJumpChptTop"><span style="font-size: xx-large;" aria-hidden="true">&#8613;</span>Jump back to the top of Chapter 2: SWOT Analysis.</a>
+            <a href=" #strategicDirection" id=" skipJumpChptTop"><span style=" font-size: xx-large;" aria-hidden=" true">&#8613;</span>Jump back to the top of Chapter 2: SWOT Analysis.</a>
             <br />
             <a href="#TOC"id="skipJumpTop"><span style="font-size: xx-large;" aria-hidden="true">&#8607;</span>Jump back to the Table of Contents.</a>
             <br />
@@ -880,7 +880,7 @@
                         </svg>
                     </div>
                 </figure>
-                <p>In phase one, SFU Galleries staff and partners will work to identify assets and materials and centralize their storage. Materials will be named, tagged, and organized so that content, materials, and documented processes can be catalogued and assessed, and missing content and documentation can be created. During this phase, incomplete and placeholder archive materials online are unpublished so that only the newest or recent materials are available for public interaction. The focus should be on the upcoming Museum and ongoing programs. This will help streamline the messaging and reduce the clutter as the new creative strategy is implemented. The additional benefit of this phase is that materials can be prioritized as the most important or timely to update and redesign through the new creative strategy, rather than overwhelming content and curatorial teams to update everything to the new look and design simultaneously. The timing is optimal with the move to a new website, where new site maps and content indexing will be required. Broken links can be managed through 404 pages, encouraging visitors to explore the new website and providing clear contact information for one-on-one communication during this transition.</p>
+                <p>In phase one, SFU Galleries staff and partners will work to identify assets and materials and centralize their storage. Materials will be named, tagged, and organized so that content, materials, and documented processes can be catalogued and assessed, and missing content and documentation can be created. During this phase, online incomplete and placeholder archive materials are unpublished so that only the newest or recent materials are available for public interaction. The focus should be on the upcoming Museum and ongoing programs. This will help streamline the messaging and reduce the clutter as the new creative strategy is implemented. The additional benefit of this phase is that materials can be prioritized as the most important or timely to update and redesign through the new creative strategy, rather than overwhelming content and curatorial teams to update everything to the new look and design simultaneously. The timing is optimal with the move to a new website, where new site maps and content indexing will be required. Broken links can be managed through 404 pages, encouraging visitors to explore the new website and providing clear contact information for one-on-one communication during this transition.</p>
                 <p>Another asset that will be developed during phase one is a comprehensive style guide, which allows SFU Gallery staff and content writers to understand better when simple language or academic tone should be employed. It will delineate the practices and will allow for curators and artists to engage in academic language for abstracts, publications, study guides, and engagement with the academic community while allowing communications, programs, and archive teams to write adjacent and alternative texts for public invitations, exhibition details and event listings, and calls for advocacy from non-academic and or non-arts organizations, using simple and accessible language. However, these style guides will also encourage curators and artists to create accessibility tools that prioritize objectivity and clarity after presenting complex ideas. Artists and curators are better suited to create visual descriptions from a place of knowledge and understanding of presented practices, including communities engaged in academic discourse and with barriers to access. Knowing how and when to employ language and tone will be critical as changes from the creative strategy project are implemented, and the chance of confusing audiences is high. The goal is to keep public excitement and understanding as many changes are going on behind the scenes, and keeping external messaging consistent and easy to understand will be key.</p>
                 <p>Phase one will conclude with a reduced number of publically facing assets, a clear list of processes that need to be documented or created through governance and administrator teams, and a list of assets that will need to be worked on and updated before they can be published and shared with the launch of the new website. Once complete, grants can be sought to work with content writers to help develop documentation that will ensure the sustainability of this work.</p>
                 <div class="well">
@@ -1050,9 +1050,9 @@
                     </div>
                 </figure>
                 <p>The final proposed phase of this strategy acknowledges the need to look back and process the work done. During this shorter phase, governance should schedule time to collect feedback from all departments to learn what has worked, what has created or been blocked by unsurmountable barriers, and what has failed. Failure does not necessarily mean that systems require change, but in collecting data that records failure, accurate risk assessments can be produced with realistic solutions moving forward.</p>
-                <p>While most business strategies do not highlight rest, this author wishes to acknowledge SFU Galleries' history of innovation and experimentation and be mindful that sometimes the best way to reflect is to rest. Work will continue and is perpetually moving forward, but it is a valuable strategy to plan for time to rest. The opening of the new Museum, the integration of a new creative strategy, the expansion of services, and the process and content-driven work recommended in this digital strategy is huge. SFU Galleries is a small team with big goals and dreams. It is recommended that time be planned throughout any strategy for rest. Still, when SFU Galleries makes it to the phase four milestone, it is important to rest so that the reflection period isn't only focused on critical or negative feedback. As a socially and politically engaged institution to which many students, arts, and pedagogical organizations look, it is valuable to show that rest is respect and that hard work in service of the community should come with rewards beyond a project being completed.</p>
+                <p>While most business strategies do not highlight rest, this author wishes to acknowledge SFU Galleries' history of innovation and experimentation and be mindful that sometimes the best way to reflect is to rest. Work will continue and is perpetually moving forward, but it is a valuable strategy to plan for time to rest. The opening of the new Museum, the integration of a new creative strategy, the expansion of services, and the process and content-driven work recommended in this digital strategy is huge. SFU Galleries is a small team with big goals and dreams. It is recommended that time be planned throughout any strategy for rest. Still, when SFU Galleries makes it to the phase four milestone, it is important to rest so that the reflection period isn't only focused on critical or negative feedback. As a socially and politically engaged institution to which many students, arts, and pedagogical organizations look, it is valuable to show that rest is respect and that hard work in community service should come with rewards beyond a project being completed.</p>
                 <p>The fourth File Mainteance event will complete the inaugural cycle of the ongoing File Mainteance Project, now an annual event programmed into the staff calendar. Governance teams and department leaders will better understand the time requirements and challenges associated with central file management and digital resource risks and needs. Process documentation will have been used for a year, and if not amended in real-time, time will be available to update the documentation to reflect the reality of the work. Any new technology projected or used by departments should be added to the documentation, and any costs associated with subscriptions should be provided to governance teams to budget for the forthcoming year. Documentation that needs to be created for new systems can be flagged as new projects, allowing for new co-learning opportunities with students, as needing resources and funding for the next year.</p>
-                <p>The first three phases focused primarily on existing or ongoing programs and content. Digital innovation will be woven into processes and exhibition offerings as visiting artists expose curatorial and preparatory teams to new media and tech as the professional sector adopts new technology. Inevitably, as personal devices become increasingly embedded in everyday adult use, the recommendation focuses primarily on housekeeping and best practices during the large change that will come with the new creative strategy and forthcoming museum. Many new processes and opportunities will become available with the facility on Burnaby Mountain.By specifically working to add visual descriptions and captions to existing media, as well as practicing simple language translations, the new Museum and existing Galleries will open themselves up to conversations with Blind, Low-Vision, d/Deaf and Hard of Hearing, Neurodiverse communities, including those who are better served through assistive technology, regardless of how they identify or are identified. The opportunity to engage with AI content generation to create drafts for visual descriptions, transcripts, blog content, and summaries will open up opportunities for other integrations as they become more adopted by businesses across Canada. Canada has begun working more earnestly to create digital privacy, content and communications, and technology laws. While many of these laws do not have immediate and obvious implications for the SFU Galleries team, the most concerning priority is the data spread and casual use of personal devices while the threat of identity fraud and data theft loom. SFU Galleries staff will more readily be able to integrate AI solutions, cloud storage use and transfers, and personal device use after phases one and two of the digital strategy project because policy and process will be established. Governance teams will understand risk, and policy ensures that staff understand the importance of a separation of work accounts from personal logins and insecure passwords.</p>
+                <p>The first three phases focused primarily on existing or ongoing programs and content. Digital innovation will be woven into processes and exhibition offerings as visiting artists expose curatorial and preparatory teams to new media and tech as the professional sector adopts new technology. Inevitably, as personal devices become increasingly embedded in everyday adult use, the recommendation focuses primarily on housekeeping and best practices during the large change that will come with the new creative strategy and forthcoming Museum. Many new processes and opportunities will become available with the facility on Burnaby Mountain.By specifically working to add visual descriptions and captions to existing media, as well as practicing simple language translations, the new Museum and existing Galleries will open themselves up to conversations with Blind, Low-Vision, d/Deaf and Hard of Hearing, Neurodiverse communities, including those who are better served through assistive technology, regardless of how they identify or are identified. The opportunity to engage with AI content generation to create drafts for visual descriptions, transcripts, blog content, and summaries will open up opportunities for other integrations as they become more adopted by businesses across Canada. Canada has begun working more earnestly to create digital privacy, content and communications, and technology laws. While many of these laws do not have immediate and obvious implications for the SFU Galleries team, the most concerning priority is the data spread and casual use of personal devices while the threat of identity fraud and data theft loom. SFU Galleries staff will more readily be able to integrate AI solutions, cloud storage use and transfers, and personal device use after phases one and two of the digital strategy project because policy and process will be established. Governance teams will understand risk, and policy ensures that staff understand the importance of a separation of work accounts from personal logins and insecure passwords.</p>
                 <p>This does not mean that innovation and one-off projects to experiment and prototype digital experiences should be put on hold. In fact, with the exponential growth of technology, to pause and stand still would be in great conflict with SFU Galleries' goals to work alongside and within the SFU infrastructure and alongside students, faculty and professional artists pushing the boundaries of what is possible every day. Instead, this strategy suggests that the primary starting focus is data management, documentation, and best practices for accessible content to build a solid foundation.</p>
                 <p>As phase four wraps, documentation will provide a rich collection of content and rationale for sustained and growth funding. Resource needs will be clear, and the requests for support will be backed up by proof of concept in digital platforms and accessible programs. This phase will see SFU Galleries moving away from innovation and digital creation grants and into operational and seed funding. This will allow this work to continue as new programs are produced yearly. As this phase concludes, a new digital strategy will be developed, which surveys a different landscape shaped by new technology and new possibilities for accessible digital participation, all from the strategically strong vantage point of a new museum with an online presence that meets the needs and expectations of its audiences.</p>
                 <div class="well">
@@ -1102,7 +1102,7 @@
                     <li>Audit personal device use by all staff and teams to clearly understand risks associated with data security and privacy, as well as understand tools not being provided by SFU Galleries required or regularly used by staff,</li>
                     <li>Announce the <a href="https://sfu-galleries.github.io/digital-accessibility-needs-assessment/#fileMaintenanceProject">Project File Maintenance Project</a> and set dates for data centralization,</li>
                     <li>Oversee and approve the unpublishing of public assets,</li>
-                    <li>Prioritize the collections/off-site digital recommendations from the <a href="https://sfu-galleries.github.io/digital-accessibility-needs-assessment/#wfh">2023 needs assessment report</a>, and review safety and digital upgrades to allow for safer, accessible, and more connected workflow,</li>
+                    <li>Prioritize the collections/offsite digital recommendations from the <a href="https://sfu-galleries.github.io/digital-accessibility-needs-assessment/#wfh">2023 needs assessment report</a>, and review safety and digital upgrades to allow for a safer, accessible, and more connected workflow,</li>
                     <li>Coordinate conversations between curatorial, collections, and communications to discuss the implications of simple language translations and identify priority content translation*</li>
                 </ul>
                 <p>Much of this work will build the case for special project funding, such as content and documentation writers.</p>
@@ -1154,12 +1154,12 @@
                     <h4>All Departments, phase 2:</h4>
                 </a>
                 <ul>
-                    <li>Participate in Process Documentation work, documenting major processes in simple language using Microsoft Word, and using provided templates for accessibility and consistency.</li>
-                    <li>Participate in File Maintenance Project event, rename files and organize folders with a focus on identifying and removing duplicates.</li>
-                    <li>Implement creative strategy recommendations, ensuring updates such as email footers and logo use is consistent on all digital files,</li>
-                    <li>Segregate personal and institutional data usage, log into accounts using SFU Galleries emails, and reset all passwords. Install a password manager and review password and app username policy (pending administration process documentation).
+                    <li>Participate in Process Documentation work, documenting major processes in simple language using Microsoft Word and using provided templates for accessibility and consistency.</li>
+                    <li>Participate in File Maintenance Project event, rename files and organize folders, focusing on identifying and removing duplicates.</li>
+                    <li>Implement creative strategy recommendations, ensuring updates such as email footers and logo use are consistent on all digital files. </li>
+                    <li>Segregate personal and institutional data usage, log into accounts using SFU Galleries emails, and reset all passwords. Install a password manager and review the password and app username policy (pending administration process documentation).
                     <li>Participate in the accessibility asset translation (alt tags, visual descriptions) to ensure context is accurately translated for these assets.</li>
-                    <li>Work with Collections and Communications to review artist and creator names. Generate pronunciation keys, and output audio files (speechify) with sound clips accurately pronouncing names. Continue process with places, non-English terms, and complex or mispronounced arts terms for website and collections archive.</li>
+                    <li>Work with Collections and Communications to review artist and creator names. Generate pronunciation keys and output audio files (Speechify) with sound clips that accurately pronounce names. Continue with places, non-English terms, and complex or mispronounced art terms for the website and collections archive.</li>
                     <li>Identify and prioritize audio/video files for captioning and transcripts, generate drafts using otter.ai, and schedule transcript and caption editing to provide access assets for online dissemination and archives.</li>
                 </ul>
                 <h4>Administration and Governance, phase 2:</h4>
@@ -1167,16 +1167,16 @@
                     <li><a href="#phase2AllTasks">All Departments, Common Tasks</a></li>
                     <li>Implement Process Documentation Project, set deadlines and working dates for all staff, begin documentation of staff-wide process documentation,</li>
                     <li>Approve and disseminate style guides for tone and language (project/dept specific)</li>
-                    <li>Develop Digital Tech Use Policy; begin segreting personal and institual data usage, review telecommunication contracts and consider wifi/data packages for staff</li>
+                    <li>Develop Digital Tech Use Policy; begin secreting personal and instinctual data usage, review telecommunication contracts, and consider wifi/data packages for staff</li>
                     <li>Set up password manager for all staff,</li>
                     <li>Introduce and model accessible online meetings with transcription,</li>
-                    <li>Collect departmental feedback on content updates and implementation of creative strategy recommendations, ensure updates such as email footers and logo use is consistent on all digital files,</li>
+                    <li>Collect departmental feedback on content updates and implementation of creative strategy recommendations, ensure updates such as email footers and logo use are consistent on all digital files,</li>
                     <li>Approve launch of new website</li>
                 </ul>
                 <h4>Curatorial, phase 2:</h4>
                 <ul>
                     <li><a href="#phase2AllTasks">All Departments, Common Tasks</a></li>
-                    <li>Identify texts specifically for study guides or online dissemination. Work with the communications team to translate materials for both academic and public participation.</li>
+                    <li>Identify texts specifically for study guides or online dissemination. Work with the communications team to translate materials for academic and public participation.</li>
                 </ul>
                 <h4>Collections:</h4>
                 <ul>
@@ -1185,18 +1185,18 @@
                     <li>Unpublish or make private any incomplete Collections listings and flag for update. </li>
                     <li>Prioritize collection data entry by artist.</li>
                     <li>Work with the creative strategy, programming, and communications team to generate a list of broad tags for object listings to enhance discoverability,</li>
-                    <li>Implement alt tags, visual descriptions, name pronuniciation guides, updated glyphs and text for non-English characters in Collection database/website listings,</li>
+                    <li>Implement alt tags, visual descriptions, name pronunciation guides, updated glyphs and text for non-English characters in Collection database/website listings,</li>
                 </ul>
                 <h4>Communications:</h4>
                 <ul>
                     <li><a href="#phase2AllTasks">All Departments, Common Tasks</a></li>
                     <li>Identify texts specifically for exhibition or online dissemination. Work with the curatorial and program teams to translate materials for public participation,</li>
-                    <li>Implement alt tags, visual descriptions, captions, transcripts, name pronuniciation guides, updated glyphs and text for non-English characters on website,</li>
+                    <li>Implement alt tags, visual descriptions, captions, transcripts, name pronunciation guides, updated glyphs and text for non-English characters on website,</li>
                 </ul>
                 <h4>Preparatory:</h4>
                 <ul>
                     <li><a href="#phase2AllTasks">All Departments, Common Tasks</a></li>
-                    <li>Familiarize and make use of online assets for interactive objects in gallery and exhibition installation (QR Codes, Audio storage, etc).</li>
+                    <li>Familiarize and use online assets for interactive objects in gallery and exhibition installation (QR Codes, Audio storage, etc).</li>
                 </ul>
             </section><!--END Chapter 4.2-->
             <section><!--Chapter 4.3 - Execution, Phase 3: by department or task-->
@@ -1208,24 +1208,24 @@
                     <h4>All Departments, phase 3:</h4>
                 </a>
                 <ul>
-                    <li>Continue documenting process, and take notes of processes that are challenging and need review,</li>
-                    <li>Archive old templates or content incongruent to new 2024 creative strategy and brand guidelines, tag any templates that are urgently in need of an update and prioritize before end of phase 3,</li>
-                    <li>Review password policy, update any old passwords, ensure all passwords and logins are now logged in password manager, and no passwords are shared or stored in insecure ways,</li>
-                    <li>Utilize new templates for email footers, downloadable PDFs, plain documents, video and audio content, and presentation decks,</li>
+                    <li>Continue documenting the process, and take notes of challenging processes that need review. </li>
+                    <li>Archive old templates or content incongruent to new 2024 creative strategy and brand guidelines, tag any templates that are urgently in need of an update and prioritize before the end of phase 3,</li>
+                    <li>Review password policy, update any old passwords, ensure all passwords and logins are now logged in a password manager, and no passwords are shared or stored in insecure ways,</li>
+                    <li>Utilize new templates for email footers, downloadable PDFs, plain documents, video and audio content, and presentation decks. </li>
                     <li>Publish assets that are now complete, accessible, and up to date,</li>
                     <li>Complete the third File Maintenance event, focusing on centralizing data and reviewing file management practices.</li>
                 </ul>
                 <h4>Administration and Governance, phase 3:</h4>
                 <ul>
                     <li><a href="#phase3AllTasks">All Departments, Common Tasks</a></li>
-                    <li>Schedule an annual staff-wide event for ongoing data consolidation and documentation updates,</li>
-                    <li>Confirm that all department teams are producing content that now follow both creative strategy and accessibility commitments when producing public exhibitions and publications, and when communicating with the public,</li>
+                    <li>Schedule an annual staff-wide event for ongoing data consolidation and documentation updates. </li>
+                    <li>Confirm that all department teams are producing content that now follows both creative strategy and accessibility commitments when producing public exhibitions and publications and when communicating with the public,</li>
                     <li>Incorporate consistency checks during annual performance reviews to ensure departmental alignment with the new templates.</li>
                 </ul>
                 <h4>Curatorial, phase 2:</h4>
                 <ul>
                     <li><a href="#phase3AllTasks">All Departments, Common Tasks</a></li>
-                    <li>Work with clear understanding of the intended audiences for each writing piece, undestanding the process for creating alternative texts for general audiences, and assisting in the creation of descriptions that are informed by context and the artist's intent</li>
+                    <li>Work with a clear understanding of the intended audiences for each writing piece, understanding the process for creating alternative texts for general audiences, and assisting in the creation of descriptions that are informed by context and the artist's intent</li>
                 </ul>
                 <h4>Collections:</h4>
                 <ul>
@@ -1238,14 +1238,14 @@
                     <li><a href="#phase3AllTasks">All Departments, Common Tasks</a></li>
                     <li>Publish archive and historical data on the new SFU Galleries website.</li>
                     <li>Announce a more integrated approach to the SFU Galleries websites and Collections database.</li>
-                    <li>Request assests and take charge of ongoing efforts to ensure digital content for the public has consistent alt tags, descriptions, pronunciations, and reading keys that work with assistive technology and benefit a general audience,</li>
+                    <li>Request assets and take charge of ongoing efforts to ensure digital content for the public has consistent alt tags, descriptions, pronunciations, and reading keys that work with assistive technology and benefit a general audience,</li>
                     <li>Continue exhibition and programs, event listings, and social posts following the creative strategy and digital guidelines before publishing live</li>
                     <li>Welcome public and student feedback on the updated systems.</li>
                 </ul>
                 <h4>Preparatory:</h4>
                 <ul>
                     <li><a href="#phase3AllTasks">All Departments, Common Tasks</a></li>
-                    <li>Test digital assets associated with exhibitions before launch. QR codes, audio players, and engagement assets associated with the exhibition should function seamlessly and without errors before exhibition opening. Communicate with curation and communication teams for up to date links and to help in generating QR codes that go to publically accessible locations.</li>
+                    <li>Test digital assets associated with exhibitions before launch. QR codes, audio players, and engagement assets associated with the exhibition should function seamlessly and without errors before the exhibition opens. Communicate with curation and communication teams for up-to-date links and help generate QR codes.</li>
                 </ul>
             </section><!--END Chapter 4.3-->
             <section><!--Chapter 4.4 - Execution, Phase 3: by department or task-->
@@ -1260,7 +1260,7 @@
                     <li>Create a list of processes that will need to be documented (new processes)</li>
                     <li>Review existing process documentation (including encountered and projected risk or challenges), update with new technology and process changes</li>
                     <li>Compile documentation and feedback to support future funding requests</li>
-                    <li>Review commonly used passwords, and consider changing passwords used by all staff, freshly logging into services that have been logged in cache or in browsers</li>
+                    <li>Review commonly used passwords, and consider changing passwords used by all staff, freshly logging into services that have been logged in cache or browsers</li>
                     <li>Complete the fourth File Maintenance event, now solidifying best practices for file maintenance and folder management (reviewed annually).</li>
                     <li>Reflect on the progress made and consider exploring new tools and technologies.</li>
                 </ul>
@@ -1268,53 +1268,48 @@
                 <ul>
                     <li><a href="#phase4AllTasks">All Departments, Common Tasks</a></li>
                     <li>Designate time for rest and celebration to acknowledge the team's achievements</li>
-                    <li>Schedule the next annual staff-wide event for ongoing data consolidation and documentation updates,</li>
-                    <li>Plan for the development of a new digital strategy based on the now current landscape shaped by emerging technology and digital participation opportunities.</li>
+                    <li>Schedule the next annual staff-wide event for ongoing data consolidation and documentation updates. </li>
+                    <li>Plan to develop a new digital strategy based on the current landscape shaped by emerging technology and digital participation opportunities.</li>
                 </ul>
                 <h4>Curatorial, phase 4:</h4>
                 <ul>
                     <li><a href="#phase4AllTasks">All Departments, Common Tasks</a></li>
-                    <li>Provide a department specific report and feedback to administration on the implementation of this strategy and the creative stratagy, identifying sucesses and challenges, as well as goals that remain unfulfilled</li>
+                    <li>Provide a department-specific report and feedback to the administration on the implementation of this strategy and the creative strategy, identifying successes and challenges, as well as goals that remain unfulfilled</li>
                 </ul>
                 <h4>Collections, phase 4:</h4>
                 <ul>
                     <li><a href="#phase4AllTasks">All Departments, Common Tasks</a></li>
-                    <li>Provide a department specific report and feedback to administration on the implementation of this strategy and the creative stratagy, identifying sucesses and challenges, as well as goals that remain unfulfilled</li>
+                    <li>Provide a department-specific report and feedback to the administration on the implementation of this strategy and the creative strategy, identifying successes and challenges, as well as goals that remain unfulfilled</li>
                 </ul>
                 <h4>Communications, phase 4:</h4>
                 <ul>
                     <li><a href="#phase4AllTasks">All Departments, Common Tasks</a></li>
-                    <li>Provide a department specific report and feedback to administration on the implementation of this strategy and the creative stratagy, identifying sucesses and challenges, as well as goals that remain unfulfilled</li>
+                    <li>Provide a department-specific report and feedback to the administration on the implementation of this strategy and the creative strategy, identifying successes and challenges, as well as goals that remain unfulfilled</li>
                     <li>Explore content generation automation for creating drafts of visual descriptions, transcripts, and summaries</li>
                     <li>Continue to innovate and prototype digital experiences, keeping up with technological advancements and aligning with SFU Galleries' goals</li>
                 </ul>
                 <h4>Preparatory:</h4>
                 <ul>
                     <li><a href="#phase4AllTasks">All Departments, Common Tasks</a></li>
-                    <li>Provide a department specific report and feedback to administration on the implementation of this strategy and the creative stratagy, identifying sucesses and challenges, as well as goals that remain unfulfilled</li>
+                    <li>Provide a department-specific report and feedback to the administration on the implementation of this strategy and the creative strategy, identifying successes and challenges, as well as goals that remain unfulfilled</li>
                 </ul>
             </section><!--END Chapter 4.4-->
             <section><!--Chapter 4.5 - POP Project Templates -->
                 <a name="PopProject">
                     <h3>Chapter 4.5. Project Templates</h3>
                 </a>
-                <p>The following templates are provided to help departments and teams plan and execute projects that relate to the larger digital strategy. Each template includes a list of performance indicators to be used to measure success and a list of resources that will be required to complete the work. </p>
-                <p>All project templates have been written using simple language, and scored at a grade 9 reading level for comprehension and so that consultants and students who may not have a professional understanding of the systems at SFU Galleries can participate and bring their skills into this work.</p>
-                <p>Note: Project templates with an asterix have been written using plain text, formatted to be understood by screen readers. It follows the <a href="https://www.w3.org/TR/WCAG20-TECHS/T3.html">T3 technique for formatting plain text</a> without the use of sematic headings (h1, h2, etc), and can be easily copied into a Word Processor for use by sighted teams with the addition of letterhead and footers. This formatting is to allow for contractors and community participation, specifically experts who use screenreader or persons without access to proprietary word processing suites, to participate in the implementation of the SFU 2024 digital strategy.</p>
+                <p>The following templates help departments and teams plan and execute projects related to the larger digital strategy. Each template includes a list of performance indicators to be used to measure success and a list of resources that will be required to complete the work. This list does not include project templates for all initiatives recommended in this report but give examples of how to write project templates with purpose, opportunity, and process in mind, while also giving SFU Galleries projects to focus on in phase 1 and 2 of the digital strategy project. In developing process documentation during phase 1, additional project templates will be developed to help focus projects and team leads to work towards specific outcomes by department.</p>
+                <p>All project templates have been written using simple language and scored at a grade 9 reading level for comprehension so that consultants and students who may not have a professional understanding of the systems at SFU Galleries can participate and bring their skills into this work.</p>
+                <p>Note: Project templates with an asterisk have been written using plain text formatted to be understood by screen readers. It follows the <a href="https://www.w3.org/TR/WCAG20-TECHS/T3.html">T3 technique for formatting plain text</a> without the use of semantic headings (h1, h2, etc.). It can be easily copied into a Word Processor for use by sighted teams with the addition of letterhead and footers. This formatting allows contractors and community participants, specifically experts who use screenreaders or persons without access to proprietary word processing suites, to participate in implementing the SFU 2024 digital strategy.</p>
                 <ul>
                     <li>File Mainteance Project</li>
-                    <li>Process Documentation (Manuals Mainteance) Project</li>
-                    <li>Collections Vault Saftey and Technology Assessment Project</li>
-                    <ul><li>Draft Password Process Documentation</li></ul>
-                    <ul><li>Draft Media Asset Description Process Documentation</li></ul>
-                    <ul><li>Draft Collection Entry Process Documentation</li></ul>
-                    <ul><li>Draft Workflow Process Documentation for Language Translation</li></ul>
-                    <ul><li>Draft How-To Participate for Website Process Documentation</li></ul>
+                    <li>Process Documentation (Manuals Maintenance) Project</li>
+                    <li>Collections Vault Safety and Technology Assessment Project</li>
                     <li>Asset Description Project*</li>
                     <li>Personal Device Use Audit</li>
                     <li>Accessibility Site Audit and Content Consolidation Project*</li>
                 </ul>
-
+        <p><a href="./media/Process Documents.zip">Download .zip of templates</a></p>
             </section><!--END Chapter 4.5-->
         </section>
     <!--End Main Report-->

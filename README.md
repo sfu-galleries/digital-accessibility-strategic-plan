@@ -38,3 +38,5 @@ Kay Slater - @kdotca - kay@kdot.ca Project Link: [https://sfu-galleries.github.i
 This work could not have been possible without the work, vision, flexibility, and project management of Russell Gordon. A special thank you to project intern and SFU Galleries Engagement Assistant Chris Outten for his work in interviewing community members and implementing feedback from the report. A final big thank you to the SFU Galleries team for pursuing this project and being open to interviews and conversations around digital futures and access. This project was funded by the [Canada Council for the Arts Seed grant](https://canadacouncil.ca/funding/strategic-funds/strategic-innovation-fund/innovation-grants/seed). We are grateful for their generosity.
 
 [Back to top - quick link](#top)
+
+❤️

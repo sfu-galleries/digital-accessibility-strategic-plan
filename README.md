@@ -1,10 +1,8 @@
 [About the Project](#about) [License](#license) [Contact](#contact) [Acknowledgments](#acknowledgments)
 
 # SFU Galleries Digital Strategy, 2024 - readme
-=============================================
 
 ## About
------
 
 The SFU Galleries Digital Strategy document is a recommended framework and roadmap to answer the question: "How can we effectively integrate digital solutions and produce high-quality content within the framework of SFU Galleries' operations and systems?" While digital solutions (and possibilities) are already being used within SFU Galleries' offerings and daily workforce, this document is designed to help better manage and streamline processes where digital content, tools, and communication are managed by multiple people, often across multiple locations. This document also considers that digital solutions are often implemented more quickly and casually now than ever as staff, artists, contractors, and audiences integrate smart devices and internet-enabled technology into their daily lives and interactions. Many digital processes are being incorporated into the workplace in innocent and often productive ways so quickly that they become integrated into processes before administrators or planners know of a shift in operations.
 
@@ -21,11 +19,9 @@ Both the SFU Galleries Digital Strategy and the Digital Needs Assessment reports
 ## License
 -------
 
-SFU Galleries Digital Strategy, 2024 © 2023 by Kay Slater is licensed under CC BY-NC 4.0
+SFU Galleries Digital Strategy, 2024 © 2023 by Kay Slater is licensed under CC BY-NC 4.0 
 
-[SFU Galleries Digital Strategy, 2024](https://github.com/sfu-galleries/digital-accessibility-strategic-plan/blob/main/index.html) by [Kay Slater](https://kdot.ca) is licensed under [CC BY-NC 4.0![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)
-
-![](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)
+[SFU Galleries Digital Strategy, 2024](https://github.com/sfu-galleries/digital-accessibility-strategic-plan/blob/main/index.html) by [Kay Slater](https://kdot.ca) is licensed under [CC BY-NC 4.0![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)
 
 [Back to top - quick link](#top)
 

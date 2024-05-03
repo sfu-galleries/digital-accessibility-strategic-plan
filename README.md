@@ -30,7 +30,7 @@ SFU Galleries Digital Strategy, 2024 © 2023 by Kay Slater is licensed under CC 
 ## Contact
 -------
 
-Kay Slater - @kdotca - kay@kdot.ca Project Link: [https://sfu-galleries.github.io/digital-accessibility-strategic-plan/](https://sfu-galleries.github.io/digital-accessibility-strategic-plan/)
+Kay Slater - @kdotca - kay@kdot.ca, Russell Gordon - russell_gordon@sfu.ca Project Link: [https://sfu-galleries.github.io/digital-accessibility-strategic-plan/](https://sfu-galleries.github.io/digital-accessibility-strategic-plan/)
 
 [Back to top - quick link](#top)
 

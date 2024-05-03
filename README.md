@@ -21,9 +21,9 @@ Both the SFU Galleries Digital Strategy and the Digital Needs Assessment reports
 
 SFU Galleries Digital Strategy, 2024 © 2023 by Kay Slater is licensed under CC BY-NC 4.0 
 
-[SFU Galleries Digital Strategy, 2024](https://sfu-galleries.github.io/digital-accessibility-strategic-plan/) by [Kay Slater](https://kdot.ca) is licensed under [CC BY-NC 4.0
+[SFU Galleries Digital Strategy, 2024](https://sfu-galleries.github.io/digital-accessibility-strategic-plan/) by [Kay Slater](https://kdot.ca) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)
 
-![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)![](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)
+![](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1) ![](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1) ![](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1)
 
 [Back to top - quick link](#top)
 
@@ -38,6 +38,8 @@ Kay Slater - @kdotca - kay@kdot.ca Project Link: [https://sfu-galleries.github.i
 ---------------
 
 This work could not have been possible without the work, vision, flexibility, and project management of Russell Gordon. A special thank you to project intern and SFU Galleries Engagement Assistant Chris Outten for his work in interviewing community members and implementing feedback from the report. A final big thank you to the SFU Galleries team for pursuing this project and being open to interviews and conversations around digital futures and access. This project was funded by the [Canada Council for the Arts Seed grant](https://canadacouncil.ca/funding/strategic-funds/strategic-innovation-fund/innovation-grants/seed). We are grateful for their generosity.
+
+![Canada Council Logo](https://sfu-galleries.github.io/digital-accessibility-strategic-plan/media/CCA_RGB_black_e.jpg)
 
 [Back to top - quick link](#top)
 
